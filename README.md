@@ -2,4 +2,4 @@
 
 -복습 + 내용 총정리하기
 
--task : spring , jpa , query dsl
+-task : jpa , query dsl
