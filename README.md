@@ -2,4 +2,4 @@
 
 -복습 + 내용 총정리하기
 
--task : jpa , query dsl
+-task : 스프링데이터jpa , query dsl
